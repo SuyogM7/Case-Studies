@@ -17,10 +17,10 @@ The fitness center’s CMO is concerned about customer churn, which affects busi
 - **Insights and Recommendations:** Extracted actionable insights from the model to suggest data-driven interventions for reducing churn. Findings were presented in a client-friendly format with visualizations and a clear interpretation of results.
 
 ## Key Files
-- `data/`: Contains the processed fitness center data used for analysis and modeling.
-- `notebooks/EDA.ipynb`: Jupyter notebook with the exploratory data analysis steps and visualizations.
-- `notebooks/Modeling.ipynb`: Jupyter notebook detailing the model selection, training, and evaluation.
-- `proposal.pdf`: Formal proposal summarizing the business problem, methodology, key insights, and recommended actions for the CMO.
+- `Fitness_Center_Data.csv`: Contains the raw data give to us by the fitness center.
+- `Fitness Center Data EDA.ipynb`: Jupyter notebook with the exploratory data analysis steps and visualizations.
+- `Fitness Center Data Modelling.ipynb`: Jupyter notebook detailing the model selection, training, and evaluation.
+- `Fitness Center EDA.pdf`: Formal proposal summarizing the business problem, methodology, key insights, and recommended actions for the CMO.
 
 ## Technologies Used
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
