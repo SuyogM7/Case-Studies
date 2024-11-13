@@ -1,4 +1,4 @@
-#Fitness Center Customer Churn Analysis and Prediction
+# Fitness Center Customer Churn Analysis and Prediction
 
 Project Overview
 This project was conducted to address the customer churn concerns of a fitness center’s Chief Marketing Officer (CMO). The objective was to analyze customer behavior, identify patterns that lead to churn, and build a predictive model to help the fitness center make informed retention decisions. The solution was designed to provide actionable insights and a machine learning model that predicts customer churn, assisting in strategic interventions for improved retention.
